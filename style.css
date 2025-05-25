@@ -47,13 +47,13 @@ body {
   }
   
   /* Question and Choice list */
-  #choice-list {
+  #choices-list {
     list-style-type: none;
     padding: 0;
     margin: 1rem 0;
   }
   
-  #choice-list li {
+  #choices-list li {
     background-color: #2a2a2a;
     padding: 0.75rem;
     border-radius: 6px;
@@ -62,8 +62,8 @@ body {
     transition: background-color 0.2s ease;
   }
   
-  #choice-list li:hover {
-    background-color: #3a3a3a;
+  #choices-list li:hover {
+    background-color: #862b85;
   }
   
   /* Hidden class */
